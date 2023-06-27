@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://prediksi-singa-porewq.github.io/sitemap.xml
